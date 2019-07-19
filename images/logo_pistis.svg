@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="174px" height="52px" viewBox="0 0 174 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Navigation" transform="translate(-109.000000, 0.000000)">
+            <g id="logo">
+                <g transform="translate(108.000000, 0.000000)">
+                    <text id="PISTIS" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="30" font-weight="normal" letter-spacing="11.4987061" fill="#AF0060">
+                        <tspan x="0" y="37">PISTIS</tspan>
+                    </text>
+                    <g id="circles" transform="translate(1.000000, 0.000000)">
+                        <circle id="Oval" fill="#0A2766" cx="47" cy="5" r="5"></circle>
+                        <circle id="Oval-Copy" fill="#A4A4A4" cx="26" cy="5" r="5"></circle>
+                        <circle id="Oval-Copy-2" fill="#000000" cx="5" cy="5" r="5"></circle>
+                    </g>
+                    <text id="Finserve-centre" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="13" font-weight="bold" letter-spacing="4.98277264" fill="#1B139C">
+                        <tspan x="1" y="51">FINSERVE CENTRE</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
